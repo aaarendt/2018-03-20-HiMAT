@@ -3,6 +3,8 @@ layout: default
 title: "Agenda"
 ---
 
+[DAY 1](#day-1-tuesday-march-20) | [DAY 2](#day-2-wednesday-march-21) | [Day 3](#day-3-thursday-march-22)
+
 # Day 1: Tuesday March 20
 
 | Time | Topic / Activity |
