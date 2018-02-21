@@ -9,10 +9,12 @@ title: "Participant List"
 |----|
 | Anthony Arendt |
 | Ravi Appana |
+| Aaron Burr |
 | Veronica (Hoi Ga) Chan |
 | William Christensen |
 | Bart Forman |
 | Paul Ginoux |
+| David Green |
 | Charley Haley |
 | Paul Houser |
 | Christina Hsu |
@@ -26,6 +28,7 @@ title: "Participant List"
 | Steve Margulis |
 | Josh Maurer |
 | Kyle McDonald |
+| Stephen Nicholls |
 | Batuhan Osmanoglu |
 | Thomas Painter |
 | Alex Prusevich |
