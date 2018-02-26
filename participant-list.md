@@ -5,49 +5,48 @@ title: "Participant List"
 
 ### Current list of participants as of Feb 19, 2018
 
-|  Name |
-|----|
-| Anthony Arendt |
-| Ravi Appana |
-| Aaron Burr |
-| Veronica (Hoi Ga) Chan |
-| William Christensen |
-| Bart Forman |
-| Paul Ginoux |
-| David Green |
-| Charley Haley |
-| Paul Houser |
-| Christina Hsu |
-| Sarah Kapnick |
-| Jeffrey Kargel |
-| Dalia Kirschbaum |
-| Sujay Kumar |
-| Melissa Linares |
-| Bryant Loomis |
-| Viviana Maggioni |
-| Steve Margulis |
-| Josh Maurer |
-| Kyle McDonald |
-| Stephen Nicholls |
-| Batuhan Osmanoglu |
-| Thomas Painter |
-| Alex Prusevich |
-| Yun Qian |
-| Bruce Raup |
-| Shane Reese |
-| Sasha Richey |
-| David Rounce |
-| Summer Rupper |
-| Enrico Schiassi |
-| Nancy Searby |
-| David Shean |
-| Daniel Shugar |
-| Jim Steenburgh |
-| Nicholas Steiner |
-| Steve Tanner |
-| Marco Tedesco |
-| Si-Chee Tsay |
-| Isabella Velicogna |
-| Scott Watson |
-| Yeosang Yoon |
-| Yifan Zhou |
+|  Name | Affiliation |
+|----|----|
+ | Ravi Appana | Washington State University | 
+ | Anthony Arendt | University of Washington | 
+ | Aaron Burr | University of Washington Tacoma | 
+ | Veronica Chan | NOAA | 
+ | William Christensen | Brigham Young University | 
+ | Bart Forman | University of Maryland | 
+ | Paul Ginoux | NOAA | 
+ | David Green | NASA HQ | 
+ | Charley Haley | back-loop | 
+ | Christina Hsu | NASA Goddard Space Flight Center | 
+ | Sarah Kapnick | NOAA | 
+ | Jeffrey Kargel | University of Arizona | 
+ | Dalia Kirschbaum | NASA Goddard Space Flight Center | 
+ | Sujay Kumar | NASA Goddard Space Flight Center | 
+ | Melissa Linares | Lamont-Doherty Earth Observatory | 
+ | Bryant Loomis | NASA Goddard Space Flight Center | 
+ | Viviana Maggioni | George Mason University | 
+ | Steve Margulis | University of California, Los Angeles | 
+ | Josh Maurer | University of Utah | 
+ | Kyle McDonald | City University of New York | 
+ | Stephen Nicholls | NASA Goddard Space Flight Center | 
+ | Batuhan Osmanoglu | NASA Goddard Space Flight Center | 
+ | Thomas Painter | NASA Jet Propulsion Laboratory | 
+ | Alex Prusevich | University of New Hampshire | 
+ | Yun Qian | Pacific Northwest National Laboratory | 
+ | Bruce Raup | National Snow and Ice Data Center | 
+ | Shane Reese | Brigham Young University | 
+ | Sasha Richey | Washington State University | 
+ | David Rounce | University of Alaska Fairbanks | 
+ | Summer Rupper | University of Utah | 
+ | Enrico Schiassi | University of Arizona | 
+ | Nancy Searby | NASA HQ | 
+ | David Shean | University of Washington | 
+ | Daniel  Shugar | University of Washington Tacoma | 
+ | Jim Steenburgh | University of Utah | 
+ | Nicholas Steiner | City University of New York | 
+ | Steve Tanner | National Snow and Ice Data Center | 
+ | Marco Tedesco | Columbia University | 
+ | Si-Chee Tsay | NASA Goddard Space Flight Center | 
+ | Isabella Velicogna | University of California, Irvine | 
+ | Scott Watson | University of Arizona | 
+ | Yeosang Yoon | NASA Goddard Space Flight Center | 
+ | Yifan Zhou | Johns Hopkins University | 
