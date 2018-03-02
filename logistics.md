@@ -22,4 +22,10 @@ Food during the workshop will be provided (lunch and snacks). You can view the m
 
 ### Walking from Silver Cloud to South Campus Center
 
+These maps show the "I don't want to get lost among south campus' maze of buildings" directions:
+
 ![walking1](assets/walking1.jpg)
+
+Details:
+
+![walking2](assets/walking2.jpg)
