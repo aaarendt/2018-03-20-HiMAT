@@ -12,6 +12,7 @@ title: "Participant List"
  | Aaron Burr | University of Washington Tacoma | 
  | Veronica Chan | NOAA | 
  | William Christensen | Brigham Young University | 
+ | Rob Fatland | University of Washington |
  | Bart Forman | University of Maryland | 
  | Paul Ginoux | NOAA | 
  | David Green | NASA HQ | 
@@ -39,6 +40,7 @@ title: "Participant List"
  | Summer Rupper | University of Utah | 
  | Enrico Schiassi | University of Arizona | 
  | Nancy Searby | NASA HQ | 
+ | Landung "Don" Setiawan | University of Washington |
  | David Shean | University of Washington | 
  | Daniel  Shugar | University of Washington Tacoma | 
  | Jim Steenburgh | University of Utah | 
