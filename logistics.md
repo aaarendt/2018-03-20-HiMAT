@@ -14,6 +14,16 @@ title: "Logistics"
 
 We have reserved a block of rooms at the [Silver Cloud Inn](https://www.silvercloud.com/university/) in Seattle's University District.
 
+### Hotel Shuttle
+
+A shuttle bus will run at 8:00 am and 8:30 am from the hotel to the conference location on campus.
+
+Bus capacity:  14 people
+
+Boarding:  Hotel front entrance
+
+Bus leaves hotel promptly so participants must arrive the lobby before the scheduled time.
+ 
 ## Food
 
 Food during the workshop will be provided (lunch and snacks). You can view the menu [here](menu.pdf).
