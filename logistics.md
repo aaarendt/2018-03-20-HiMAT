@@ -35,7 +35,9 @@ Food during the workshop will be provided (lunch and snacks). You can view the m
 These maps show the "I don't want to get lost among south campus' maze of buildings" directions:
 
 ![walking0](assets/walking0.jpg)
-
+<br>
+<br>
 ![walking1](assets/walking1.jpg)
-
+<br>
+<br>
 ![walking2](assets/walking2.jpg)
