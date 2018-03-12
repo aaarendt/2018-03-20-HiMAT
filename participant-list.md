@@ -3,7 +3,7 @@ layout: default
 title: "Participant List"
 ---
 
-### Current list of participants as of Feb 19, 2018
+### Current list of participants as of March 12, 2018
 
 |  Name | Affiliation |
 |----|----|
@@ -17,6 +17,7 @@ title: "Participant List"
  | Paul Ginoux | NOAA | 
  | David Green | NASA HQ | 
  | Charley Haley | back-loop | 
+ | Paul Houser | George Mason University |
  | Christina Hsu | NASA Goddard Space Flight Center | 
  | Sarah Kapnick | NOAA | 
  | Jeffrey Kargel | University of Arizona | 
