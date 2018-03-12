@@ -3,7 +3,7 @@ layout: default
 title: "Agenda"
 ---
 
-[DAY 1](#day-1-tuesday-march-20) | [DAY 2](#day-2-wednesday-march-21) | [Day 3](#day-3-thursday-march-22)
+[DAY 1](#day-1-tuesday-march-20) | [DAY 2](#day-2-wednesday-march-21) | [DAY 3](#day-3-thursday-march-22)
 
 # Day 1: Tuesday March 20
 
@@ -11,22 +11,20 @@ title: "Agenda"
 |------------:|:-------------|
 | 9:00 - 9:15 am | Welcome and logistics (Tom, Anthony, Yu-chan) |
 | 9:15 - 9:30 am | Reconnecting |
-|  | Research Updates  |
-| 9:30 - 9:50 am | Kumar | 
-| 9:50 - 10:10 am | Rupper |
-| 10:10 - 10:30 am | Kapnick | 
-| 10:30 - 11:00 am | Coffee break |
-|  | Research Updates  |
-| 11:00 - 11:20 am | Painter |
-| 11:20 - 11:40 am | Osmanoglu |
-| 11:40 - 12:00 am | Houser |
+| 9:30 - 9:50 am | Kumar Team Research Update | 
+| 9:50 - 10:10 am | Rupper Team Research Update |
+| 10:10 - 10:30 am | Kapnick Team Research Update | 
+| 10:30 - 11:00 am | **Coffee break** |
+| 11:00 - 11:20 am | Painter Team Research Update |
+| 11:20 - 11:40 am | Osmanoglu Team Research Update |
+| 11:40 - 12:00 am | Houser Team Research Update |
 | 12:00 - 12:30 pm | Social Networking | 
-| 12:30 - 1:30 pm | Lunch |
-|  | Research Updates  |
-| 1:30 - 1:50 pm | Margulis |
-| 1:50 - 2:10 pm | Arendt |
+| 12:30 - 1:30 pm | **Lunch** |
+|  | **Research Updates**  |
+| 1:30 - 1:50 pm | Margulis Team Research Update|
+| 1:50 - 2:10 pm | Arendt Team Research Update |
 | 2:10 - 2:30 pm | Formulate breakout groups |
-| 2:30 - 3:00 pm | Coffee break |
+| 2:30 - 3:00 pm | **Coffee break** |
 | 3:00 - 5:00 pm | Breakout Groups |
 | 6:30 - 9:00 pm | Group dinner in Seattle (TBD) |
 
@@ -36,20 +34,20 @@ title: "Agenda"
 
 | Time | Topic / Activity |
 |------------:|:-------------|
-|  | Research Updates |
-| 9:00 - 9:30 am | McDonald |
-| 9:30 - 9:50 am | Velicogna  | 
-| 9:50 - 10:10 am | Tsay |
-| 10:10 - 10:30 am | Kargel | 
-| 10:30 - 11:00 am | Coffee break |
+| 9:00 - 9:30 am | McDonald Team Research Update|
+| 9:30 - 9:50 am | Velicogna Team Research Update| 
+| 9:50 - 10:10 am | Tsay Team Research Update|
+| 10:10 - 10:30 am | Kargel Team Research Update | 
+| 10:30 - 11:00 am | **Coffee break** |
 | 11:00 - 12:30 pm | Brekout Groups | 
-| 12:30 - 1:30 pm | Lunch |
+| 12:30 - 1:30 pm | **Lunch** |
 | 1:30 - 2:30 pm | Breakout Groups | 
-| 2:30 - 3:00 pm | Coffee break |
+| 2:30 - 3:00 pm | **Coffee break** |
 | 3:00 - 4:30 pm | Group discussion on authorship and data sharing policies |
 
 Dinner on your own.
-<!-- 
+
+<!--- 
 * **precipitation** progress on 3 papers; downscaling efforts, statistical validation
 * **glaciers** what are the land surface models showing? How to refine and improve glacier simulations, especially how to handle geometry adjustments in future simulations? Discuss latest Huss and Hock paper.
 * **ground observations** working through details of which stations are ordered/to be ordered, how to share the data, who to contact  
@@ -62,6 +60,8 @@ Dinner on your own.
 * **hazards**
 * **impacts**
 --->
+
+<hr>
 
 # Day 3: Thursday March 22
 
