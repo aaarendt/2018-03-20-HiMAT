@@ -20,7 +20,6 @@ title: "Agenda"
 | 11:40 - 12:00 am | Houser Team Research Update |
 | 12:00 - 12:30 pm | Social Networking | 
 | 12:30 - 1:30 pm | **Lunch** |
-|  | **Research Updates**  |
 | 1:30 - 1:50 pm | Margulis Team Research Update|
 | 1:50 - 2:10 pm | Arendt Team Research Update |
 | 2:10 - 2:30 pm | Formulate breakout groups |
