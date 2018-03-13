@@ -42,3 +42,18 @@ Here is a link to Google Maps directions from the Silver Cloud hotel to the Conf
 ## zoom in to path near the conference venue
 <br>
 ![walking2](assets/walking2.jpg)
+
+## Dining options
+
+There are several dining options within walking distance from Silver Cloud:
+
+* In the [University Village](https://uvillage.com/directory/), you can find many dining options.  There is a supermarket, QFC, at the east end of the mall.
+* [Aqua Verde](http://aguaverde.com/cafe/) (Mexican)   is close to our meeting location and is by the water.
+* [Ivar’s](https://www.ivars.com/locations/seafood-bars/seafood-bars-menus) (seafood)  is by the water and close to our meeting location (relatively speaking).
+* If you do not mind walking, [the Ave]( https://en.wikipedia.org/wiki/The_Ave) has many options. This is where students hang out and where you can find cheap eats.
+  * Myung Tong Tofu House (4142 Brooklyn Ave NE, 98105)
+  * Little Thai  (4142 Brooklyn Ave NE, 98105)
+  * Samurai Noodle (4138 University Way NE)
+  * Shultzy’s Bar and Grill (4114 University Way NE)
+  * Big Time Brewery & Alehouse (4133 University Way NE)
+  * Oasis bubble tea (4508 University Way NE)
