@@ -32,12 +32,13 @@ Food during the workshop will be provided (lunch and snacks). You can view the m
 
 ### Walking from Silver Cloud to South Campus Center
 
-These maps show the "I don't want to get lost among south campus' maze of buildings" directions:
+Here is a link to Google Maps directions from the Silver Cloud hotel to the Conference Venue:
 
+[https://tinyurl.com/yaremfxv](https://tinyurl.com/yaremfxv)
+
+## map directions
 ![walking0](assets/walking0.jpg)
 <br>
-<br>
-![walking1](assets/walking1.jpg)
-<br>
+## zoom in to path near the conference venue
 <br>
 ![walking2](assets/walking2.jpg)
