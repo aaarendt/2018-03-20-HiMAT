@@ -18,11 +18,12 @@ title: "Agenda"
 | 11:00 - 11:20 am | Painter Team Research Update |
 | 11:20 - 11:40 am | Osmanoglu Team Research Update |
 | 11:40 - 12:00 am | Houser Team Research Update |
-| 12:00 - 12:30 pm | Social Networking | 
-| 12:30 - 1:30 pm | **Lunch** |
+| 12:00 - 12:20 pm | Kirschbaum Research Update |
+| 12:20 - 1:20 pm | **Lunch** |
+| 1:20 - 1:30 pm | Social Networking | 
 | 1:30 - 1:50 pm | Margulis Team Research Update|
 | 1:50 - 2:10 pm | Arendt Team Research Update |
-| 2:10 - 2:20 pm | Kirschbaum Research Update |
+| 2:10 - 2:30 pm | Formulate breakout groups |
 | 2:30 - 3:00 pm | **Coffee break** |
 | 3:00 - 5:00 pm | Breakout Groups |
 | 6:30 - 9:00 pm | Group dinner in Seattle (TBD) |
