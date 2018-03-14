@@ -22,7 +22,7 @@ title: "Agenda"
 | 12:30 - 1:30 pm | **Lunch** |
 | 1:30 - 1:50 pm | Margulis Team Research Update|
 | 1:50 - 2:10 pm | Arendt Team Research Update |
-| 2:10 - 2:30 pm | Formulate breakout groups |
+| 2:10 - 2:20 pm | Kapnick Research Update |
 | 2:30 - 3:00 pm | **Coffee break** |
 | 3:00 - 5:00 pm | Breakout Groups |
 | 6:30 - 9:00 pm | Group dinner in Seattle (TBD) |
@@ -66,7 +66,8 @@ Dinner on your own.
 
 | Time | Topic / Activity |
 |------------:|:-------------|
-| 9:00 - 10:30 am | Building a timeline for collaborative publications  |
+| 9:00 - 9:20 am | Bruce Raup: Data sharing update |
+| 9:20 - 10:30 am  | Timeline of publications |
 | 10:30 - 11:00 am | coffee |
 | 11:00 - 12:00 pm | Building a schedule for data release |
 | 12:00 - 1:30 pm | Lunch |
