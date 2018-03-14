@@ -22,7 +22,7 @@ title: "Agenda"
 | 12:30 - 1:30 pm | **Lunch** |
 | 1:30 - 1:50 pm | Margulis Team Research Update|
 | 1:50 - 2:10 pm | Arendt Team Research Update |
-| 2:10 - 2:20 pm | Kapnick Research Update |
+| 2:10 - 2:20 pm | Kirschbaum Research Update |
 | 2:30 - 3:00 pm | **Coffee break** |
 | 3:00 - 5:00 pm | Breakout Groups |
 | 6:30 - 9:00 pm | Group dinner in Seattle (TBD) |
